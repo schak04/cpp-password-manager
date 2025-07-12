@@ -6,7 +6,7 @@ This is a password manager being built with a C++ backend. It's a C++ full-stack
 
 ## Author
 
-Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).
+Copyright (c) 2025 [Saptaparno Chakraborty](https://github.com/schak04).  
 All rights reserved.
 
 ---
