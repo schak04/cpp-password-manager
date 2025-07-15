@@ -1,4 +1,4 @@
-# SeptVault: A C++ Password Manager
+# SeptVault
 
 This is a password manager being built with a C++ backend, named after me (**'sept'** is the literal translation of my nickname **Sapto**). It's a C++ full-stack software development learning project. Work in progress.
 
